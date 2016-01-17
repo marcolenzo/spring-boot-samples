@@ -26,7 +26,6 @@ target/
 .classpath
 .project
 spring-*/src/main/java/META-INF/MANIFEST.MF
-.travis.yml
 
 # SCM stuff
 .MySCMServerInfo
